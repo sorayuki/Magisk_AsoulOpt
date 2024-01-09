@@ -54,13 +54,13 @@ Android用ゲームスレッド調整ツール、主流となっているゲー�
 - High Energy Heroes
 - スラムダンク
 - Game for Peace
-- 环行旅舍
+- クライン寮（环行旅舍）
 - Tower of Fantasy（包含国际/渠道服）
 - Brawl Stars（包含国际/渠道服）
 - Torchlight:Infinite（包含国际服）
 - NARUTO
 - Super Mecha Champions（包含国际/渠道服）
-- 剑与远征
+- AFK アリーナ
 - The Battle of Golden Shovel
 - Implosion -Never Lose Hope-
 - 決戦!平安京（包含渠道服）
@@ -71,7 +71,7 @@ Android用ゲームスレッド調整ツール、主流となっているゲー�
 - The Soul of Hunter（包含渠道服）
 - 零灵：天运防线
 - トムとジェリー（包含国际/渠道服）
-- 梦幻模拟战
+- ラングリッサー
 - アークナイツ（包含国际/渠道服）
 - デイ・アフター・トゥモロー（包含国际/渠道服）
 - Fate/Grand Order
